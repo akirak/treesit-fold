@@ -152,6 +152,8 @@
     (matlab-mode            . ,(treesit-fold-parsers-matlab))
     (mermaid-mode           . ,(treesit-fold-parsers-mermaid))
     (mermaid-ts-mode        . ,(treesit-fold-parsers-mermaid))
+    (neocaml-mode           . ,(treesit-fold-parsers-ocaml))
+    (neocamli-mode          . ,(treesit-fold-parsers-ocaml))
     (ninja-mode             . ,(treesit-fold-parsers-ninja))
     (noir-mode              . ,(treesit-fold-parsers-noir))
     (noir-ts-mode           . ,(treesit-fold-parsers-noir))
